@@ -1,7 +1,3 @@
-//
-// Created by Pamela Vincze on 2016-08-23.
-//
-
 #ifndef PONG_BALL_H
 #define PONG_BALL_H
 
